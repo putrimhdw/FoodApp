@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+
+    <string name="food_name">Nama Makanan</string>
+    <string name="food_category">Category</string>
+    <string name="food_description">Deskripsi Makanan</string>
+    <string name="food_calorie">Kalori</string>
+    <string name="share">Share</string>
+
+    <string name="name">Ni Luh Gede Cahaya Putri Mahadewi</string>
+    <string name="email">mahadewicahayaputri@gmail.com</string>
+    <string name="about_page">About Page</string>
+
+    <string-array name="data_name">
+        <item>Chocolate Cake</item>
+        <item>Fruit Salad</item>
+        <item>Green Smoothie</item>
+        <item>Sushi</item>
+        <item>Pasta</item>
+        <item>Avocado Toast</item>
+        <item>Yogurt Parfait</item>
+        <item>Grilled Salmon</item>
+        <item>Quinoa Salad</item>
+        <item>Ice Cream</item>
+        <item>Matcha Latte</item>
+        <item>Caesar Salad</item>
+        <item>Vegetable Stir Fry</item>
+        <item>Acai Bowl</item>
+        <item>Dark Chocolate</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>A rich and indulgent chocolate cake made from the finest cocoa, layered with creamy chocolate ganache, and topped with a smooth, decadent frosting. Perfect for satisfying any sweet craving, this cake is a favorite for birthdays, celebrations, or simply as an afternoon treat.</item>
+        <item>A refreshing and vibrant mix of seasonal fruits including juicy watermelon, sweet berries, crisp apples, and tropical mango. This fruit salad is not only a feast for the eyes but also packed with vitamins and nutrients, making it a healthy yet delicious snack or dessert.</item>
+        <item>This nutrient-packed green smoothie blends together fresh spinach, kale, banana, and a splash of almond milk for a creamy, energizing drink. Perfect for starting the day or as a post-workout refreshment, it’s full of antioxidants and fiber to keep you going throughout the day.</item>
+        <item>A beloved Japanese dish, sushi offers a perfect balance of fresh fish, tender rice, and crisp vegetables, all wrapped in a seaweed sheet. With variations like sashimi, nigiri, and rolls, sushi is a light yet flavorful meal, favored for its clean taste and artistic presentation.</item>
+        <item>Creamy, al dente pasta tossed with a variety of sauces such as tangy tomato marinara, rich alfredo, or a classic pesto. Whether you prefer it with meat, seafood, or vegetarian ingredients, pasta is a comforting, versatile dish enjoyed in countless different ways across the world.</item>
+        <item>Crunchy, toasted bread topped with creamy mashed avocado, drizzled with olive oil, and seasoned with salt, pepper, and chili flakes. Avocado toast is a popular and trendy choice for breakfast or brunch, offering a perfect blend of textures and healthy fats.</item>
+        <item>A delightful breakfast or snack featuring layers of creamy yogurt, crunchy granola, and fresh berries. The yogurt parfait provides a satisfying mix of textures and flavors, combining the sweetness of the fruit with the richness of the yogurt for a light yet filling meal.</item>
+        <item>Perfectly grilled salmon fillet seasoned with herbs and lemon, offering a tender and juicy bite with a slightly crisp exterior. Grilled salmon is not only delicious but also rich in omega-3 fatty acids, making it a healthy and nutritious choice for lunch or dinner.</item>
+        <item>A hearty and nutritious salad made with fluffy quinoa, crisp vegetables, and a light vinaigrette dressing. Quinoa salad is packed with protein, fiber, and essential nutrients, making it a satisfying and energizing dish that can be enjoyed as a side or a main course.</item>
+        <item>A cold, creamy dessert made from milk, cream, and sugar, available in a wide variety of flavors such as vanilla, chocolate, strawberry, and more exotic choices like salted caramel or matcha. Ice cream is the ultimate treat for cooling off on a hot day or enjoying as a dessert after dinner.</item>
+        <item>A trendy beverage made from finely ground green tea leaves, whisked into hot milk or water, creating a creamy, earthy drink. Matcha latte is beloved for its rich flavor, vibrant green color, and numerous health benefits, including antioxidants and energy-boosting properties.</item>
+        <item>A classic Caesar salad featuring crisp romaine lettuce, crunchy croutons, and shaved parmesan, all tossed in a rich, creamy Caesar dressing. Often topped with grilled chicken or shrimp, this salad is a satisfying and flavorful choice for lunch or dinner.</item>
+        <item>Fresh vegetables like broccoli, bell peppers, and carrots stir-fried with garlic, ginger, and soy sauce for a quick and healthy meal. This dish is vibrant, flavorful, and packed with vitamins, making it a go-to option for those seeking a light yet satisfying meal.</item>
+        <item>A vibrant smoothie bowl made with acai berries, blended into a thick smoothie and topped with granola, sliced bananas, berries, and a drizzle of honey. Acai bowls are popular for their rich antioxidant content and energizing properties, making them a great breakfast or snack.</item>
+        <item>Rich and bittersweet dark chocolate, known for its intense cocoa flavor and health benefits. Unlike milk chocolate, dark chocolate contains less sugar and more antioxidants, making it a guilt-free indulgence for chocolate lovers looking for a healthier option.</item>
+    </string-array>
+
+    <string-array name="data_image">
+        <item>https://sugargeekshow.com/wp-content/uploads/2023/10/easy_chocolate_cake_slice-500x500.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmaEIsORzLlCFQd1OBlRgFdWAnHnFUkAcVYA&amp;s</item>
+        <item>https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/03/Green-Smoothie-main.jpg</item>
+        <item>https://static.vecteezy.com/system/resources/previews/026/606/840/large_2x/ai-generative-sushi-image-art-illustration-free-photo.jpg</item>
+        <item>https://www.allrecipes.com/thmb/mvO1mRRH1zTz1SvbwBCTz78CRJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/67700_RichPastaforthePoorKitchen_ddmfs_4x3_2284-220302ec8328442096df370dede357d7.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULoAMERIRh6Rl-i2q9VlubWkpLjh53xpcVA&amp;s</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFfCuXCC6uGbisgOL5kSVzI20WqXu2gWM9SQ&amp;s</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSED2Bmge-QPu5t32bFJVqQEMUD_yfdkBCcBA&amp;s</item>
+        <item>https://www.allrecipes.com/thmb/AfZ5pJYvZSrlltkHiimLIOdEtjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229156-Zesty-Quinoa-Salad-ddmps-4x3-104421-df647e343ce543769a038cccf4c6419c.jpg</item>
+        <item>https://images.stockcake.com/public/4/1/4/414f00be-e158-468f-a78d-41937813f657_large/colorful-ice-cream-stockcake.jpg</item>
+        <item>https://www.acozykitchen.com/wp-content/uploads/2017/04/IcedMatchaLatte-1.jpg</item>
+        <item>https://www.allrecipes.com/thmb/mXZ0Tulwn3x9_YB_ZbkiTveDYFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229063-Classic-Restaurant-Caesar-Salad-ddmfs-4x3-231-89bafa5e54dd4a8c933cf2a5f9f12a6f.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbcgTqpPnxFN4emtKpargGKYUjkS_qqEd8HA&amp;s</item>
+        <item>https://images.stockcake.com/public/4/4/6/446e9af3-9e11-484e-8ebb-96fb2d6dd2bd_large/healthy-acai-bowl-stockcake.jpg</item>
+        <item>https://media.post.rvohealth.io/wp-content/uploads/2021/02/dark-chocolate-bar-732x549-thumbnail-732x549.jpg</item>
+    </string-array>
+
+    <integer-array name="data_calories">
+        ing-array name="data_calories">
+        <item>350</item>
+        <item>150 </item>
+        <item>200 </item>
+        <item>300 </item>
+        <item>400 </item>
+        <item>250 </item>
+        <item>180 </item>
+        <item>350 </item>
+        <item>220 </item>
+        <item>210 </item>
+        <item>140 </item>
+        <item>320 </item>
+        <item>180 </item>
+        <item>210 </item>
+        <item>170 </item>
+    </integer-array>
+
+    <string-array name="data_category">
+        <item>Dessert</item>
+        <item>Salad</item>
+        <item>Drink</item>
+        <item>Main Course</item>
+        <item>Main Course</item>
+        <item>Breakfast</item>
+        <item>Breakfast</item>
+        <item>Main Course</item>
+        <item>Salad</item>
+        <item>Dessert</item>
+        <item>Drink</item>
+        <item>Salad</item>
+        <item>Main Course</item>
+        <item>Breakfast</item>
+        <item>Snack</item>
+    </string-array>
+</resources>
